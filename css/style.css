@@ -1,0 +1,39 @@
+.header{
+    display: flex;
+    width: 100%;
+}
+.slogan1 {
+    color: blue;
+    width: 33.3%;
+    text-align: center;
+}
+.img1{
+     width: 33.3%;
+    margin-left: 3%;
+    }
+    .slogan2{
+        color:brown;
+        width: 33.3%;
+        text-align: center;
+    }
+.novbar{
+    text-align: center;
+}
+.body{
+   display: flex;
+}
+
+.text1{
+    width: 48%;
+    font-size:x-large ;
+}
+.img2{
+    width: 48%;
+   
+}
+.footer{
+    text-align: center;
+    background-color: beige;
+}
+
+    
